@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shigapov/shigapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌱 Natural Language Processing
+
+* [bbw](https://github.com/UB-Mannheim/bbw) is a tool for entity linking, entity typing and relation extraction using any Wikibase knowledge graph (e.g., Wikidata) and meta-lookup (metasearch over SearX) [[docs](https://ub-mannheim.github.io/bbw/)], [[paper](http://ceur-ws.org/Vol-2775/paper2.pdf)]
+* [spaCyOpenTapioca](https://github.com/UB-Mannheim/spacyopentapioca) is a spaCy pipeline for named entity linker OpenTapioca [[spaCy Universe](https://spacy.io/universe/project/spacyopentapioca)], [[docs](https://ub-mannheim.github.io/spacyopentapioca/docs/index.html)]
+* [Reichsanzeiger NLP](https://github.com/UB-Mannheim/reichsanzeiger-nlp) is a NER/NEL corpus & [annotation guidelines](https://ub-mannheim.github.io/reichsanzeiger-nlp) for the historical German newspaper "Deutscher Reichsanzeiger und Preußischer Staatsanzeiger" (1819-1945)
+* [blatt](https://github.com/UB-Mannheim/blatt) is a NLP-helper for OCR-ed pages in PAGE XML format (it's used to structure data from OCR-ed pages) [[docs](https://ub-mannheim.github.io/blatt)]
+
+### 🌱 Knowledge graphs
+
+* [Wikibase knowledge graphs](https://github.com/shigapov/wikibase-knowledge-graphs) is a list of open source tools and resources related to Wikibase knowledge graphs
+* [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) is a tool for fast knowledge graph creation with Wikibase [[docs](https://ub-mannheim.github.io/RaiseWikibase)]
+* [Aktienführer Knowledge Graph](https://github.com/UB-Mannheim/Aktienfuehrer-KG) is a (meta)data KG for the German listed stock companies from the Hoppenstedt-Aktienführer from 1956 to 2018 [[frontend](https://akf.kgi.uni-mannheim.de)], [[SPARQL](https://query.akf.kgi.uni-mannheim.de)], [[reconciliation service](https://rec.akf.kgi.uni-mannheim.de)]
+* [MaschinenBauIndustrie (MBI) Knowledge Graph](https://github.com/UB-Mannheim/Maschinen-Industrie) is a KG of structured data from the book "Die Maschinen-Industrie im Deutschen Reich" written by Herbert Patschan in 1937 [[frontend](https://mbi.kgi.uni-mannheim.de)], [[SPARQL](https://query.mbi.kgi.uni-mannheim.de)] and [[reconciliation service](https://rec.mbi.kgi.uni-mannheim.de)]
+
+### 🌱 Research Data Management
+
+* [Awesome RDM](https://github.com/UB-Mannheim/awesome-RDM) is a list of awesome RDM resources for researchers and organizations
+* [FAIR Data Week at Uni Mannheim](https://github.com/UB-Mannheim/FAIR-Data-Week)
+   * [F for Findable](https://doi.org/10.5281/zenodo.7984881)
+   * [A for Accessible](https://doi.org/10.5281/zenodo.7989605)
+   * [I for Interoperable](https://doi.org/10.5281/zenodo.7993735)
+   * [R for Reusable](https://doi.org/10.5281/zenodo.7997250)
+* [madata](https://github.com/UB-Mannheim/madata) is a tool for syncing the metadata of datasets between MADATA OAI-PMH (Mannheim Data Repository) and Wikidata
+
+### 🌱 [NFDI](https://www.nfdi.de)
+
+* [Knowledge Graphs - Working Group Charter (NFDI section-metadata)](https://doi.org/10.5281/zenodo.7228954)
+* [Dataset: an overview of knowledge graphs in NFDI](https://doi.org/10.5281/zenodo.8124285)
+* [Knowledge graphs for interoperable NFDI: Digital editions](https://doi.org/10.5281/zenodo.7643213)
+* [Warum brauchen wir Wissensgraphen in NFDI?](https://doi.org/10.5281/zenodo.7919338)
