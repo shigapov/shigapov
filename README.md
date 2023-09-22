@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 * [Dataset: an overview of knowledge graphs in NFDI](https://doi.org/10.5281/zenodo.8124285)
 * [Knowledge graphs for interoperable NFDI: Digital editions](https://doi.org/10.5281/zenodo.7643213)
 * [Warum brauchen wir Wissensgraphen in NFDI?](https://doi.org/10.5281/zenodo.7919338)
+* [KGI4NFDI: Knowledge Graph Infrastructure for the German National Research Data Infrastructure](https://doi.org/10.5281/zenodo.8337432)
+* [The Case for a Common, Reusable Knowledge Graph Infrastructure for NFDI](https://doi.org/10.52825/cordi.v1i.266)
+* [Who is using Knowledge Graphs in NFDI? An overview by the Working Group "Knowledge Graphs"](https://doi.org/10.5281/zenodo.8332776)
+
