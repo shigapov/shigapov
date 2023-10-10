@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 * [spaCyOpenTapioca](https://github.com/UB-Mannheim/spacyopentapioca) is a spaCy pipeline for named entity linker OpenTapioca [[spaCy Universe](https://spacy.io/universe/project/spacyopentapioca)], [[docs](https://ub-mannheim.github.io/spacyopentapioca/docs/index.html)]
 * [Reichsanzeiger NLP](https://github.com/UB-Mannheim/reichsanzeiger-nlp) is a NER/NEL corpus & [annotation guidelines](https://ub-mannheim.github.io/reichsanzeiger-nlp) for the historical German newspaper "Deutscher Reichsanzeiger und Preußischer Staatsanzeiger" (1819-1945)
 * [blatt](https://github.com/UB-Mannheim/blatt) is a NLP-helper for OCR-ed pages in PAGE XML format (it's used to structure data from OCR-ed pages) [[docs](https://ub-mannheim.github.io/blatt)]
+* [cas2iob](https://github.com/UB-Mannheim/cas2iob) is a convertor of UIMA CAS XMI files exported from the INCEpTION annotation platform into IOB TSV files.
 
 ### 🌱 Knowledge graphs
 
