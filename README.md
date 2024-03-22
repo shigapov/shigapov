@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * [Reichsanzeiger NLP](https://github.com/UB-Mannheim/reichsanzeiger-nlp) is a NER/NEL corpus & [annotation guidelines](https://ub-mannheim.github.io/reichsanzeiger-nlp) for the historical German newspaper "Deutscher Reichsanzeiger und Preußischer Staatsanzeiger" (1819-1945)
 * [blatt](https://github.com/UB-Mannheim/blatt) is a NLP-helper for OCR-ed pages in PAGE XML format (it's used to structure data from OCR-ed pages) [[docs](https://ub-mannheim.github.io/blatt)]
 * [cas2iob](https://github.com/UB-Mannheim/cas2iob) is a converter of UIMA CAS XMI files exported from the INCEpTION annotation platform into IOB TSV files
+* [madabi](https://github.com/UB-Mannheim/madabi) is a repo containing ongoing work on building Mannheim Data Bibliography for [MADATA](https://madata.bib.uni-mannheim.de)
 
 ### 🌱 Knowledge graphs
 
@@ -26,9 +27,11 @@ Here are some ideas to get you started:
 * [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) is a tool for fast knowledge graph creation with Wikibase [[docs](https://ub-mannheim.github.io/RaiseWikibase)]
 * [Aktienführer Knowledge Graph](https://github.com/UB-Mannheim/Aktienfuehrer-KG) is a (meta)data KG for the German listed stock companies from the Hoppenstedt-Aktienführer from 1956 to 2018 [[frontend](https://akf.kgi.uni-mannheim.de)], [[SPARQL](https://query.akf.kgi.uni-mannheim.de)], [[reconciliation service](https://rec.akf.kgi.uni-mannheim.de)]
 * [MaschinenBauIndustrie (MBI) Knowledge Graph](https://github.com/UB-Mannheim/Maschinen-Industrie) is a KG of structured data from the book "Die Maschinen-Industrie im Deutschen Reich" written by Herbert Patschan in 1937 [[frontend](https://mbi.kgi.uni-mannheim.de)], [[SPARQL](https://query.mbi.kgi.uni-mannheim.de)] and [[reconciliation service](https://rec.mbi.kgi.uni-mannheim.de)]
+* [kg-enricher](https://github.com/UB-Mannheim/kg-enricher) is a library for enriching strings, entities and knowledge graphs using Wikibase knowledge graphs 
 
 ### 🌱 Research Data Management
 
+* [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair) is a virtual consultant on FAIR RDM in ChatGPT Plus [[GitHub](https://github.com/UB-Mannheim/FAIR-GPT)]
 * [Awesome RDM](https://github.com/UB-Mannheim/awesome-RDM) is a list of awesome RDM resources for researchers and organizations
 * [FAIR Data Week at Uni Mannheim](https://github.com/UB-Mannheim/FAIR-Data-Week)
    * [F for Findable](https://doi.org/10.5281/zenodo.7984881)
