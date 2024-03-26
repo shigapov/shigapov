@@ -39,6 +39,7 @@ Here are some ideas to get you started:
    * [I for Interoperable](https://doi.org/10.5281/zenodo.7993735)
    * [R for Reusable](https://doi.org/10.5281/zenodo.7997250)
 * [madata](https://github.com/UB-Mannheim/madata) is a tool for syncing the metadata of datasets between MADATA OAI-PMH (Mannheim Data Repository) and Wikidata
+* [ReproResearch](https://github.com/shigapov/ReproResearch) is a ready-to-use repository for FAIR reproducible research (data) projects 
 
 ### 🌱 [NFDI](https://www.nfdi.de)
 
