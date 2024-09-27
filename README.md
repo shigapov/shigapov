@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 ### 🌱 Research Data Management
 
 * [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair) is a virtual consultant on FAIR RDM in ChatGPT Plus [[GitHub](https://github.com/UB-Mannheim/FAIR-GPT)]
+* [FAIR-farfalle](https://github.com/UB-Mannheim/FAIR-farfalle) is an open-source Perplexity analogue for Research Data Management based on [farfalle](https://github.com/rashadphz/farfalle)
+* [FAIR-Perplexica](https://github.com/UB-Mannheim/FAIR-Perplexica) is an open-source Perplexity analogue for Research Data Management based on [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+* [FAIR-sensei](https://github.com/UB-Mannheim/FAIR-sensei) is an open-source Perplexity analogue for Research Data Management based on [sensei](https://github.com/jjleng/sensei)
 * [Awesome RDM](https://github.com/UB-Mannheim/awesome-RDM) is a list of awesome RDM resources for researchers and organizations
 * [FAIR Data Week at Uni Mannheim](https://github.com/UB-Mannheim/FAIR-Data-Week)
    * [F for Findable](https://doi.org/10.5281/zenodo.7984881)
