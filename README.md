@@ -12,6 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### News
+
+* 16.12.2025 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.17940943), [Jupyter Book](https://shigapov.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)
+* 22.10.2025 [Responsible use of AI in Research](https://doi.org/10.5281/zenodo.17413127)
+* 14.10.2025 [Questionable Practices in the use of AI](https://doi.org/10.5281/zenodo.17349510)
+* 07.10.2025 [AI for Research Data Management and Open Science](https://doi.org/10.5281/zenodo.17286747)
+* 15.09.2025 [FDZ UB Mannheim: Three challenges in establishing sustainable research data management, data science, and AI services](https://doi.org/10.5281/zenodo.17119800), Data-Science-Community Workshop, [paper](https://doi.org/10.18420/inf2025_100)
+* 14.03.2025, [Perplexity-inspired metasearch-based alternatives to FAIR GPT: Open-source AI consultants for RDM](https://doi.org/10.5281/zenodo.15038486), E-Science-Tage 2025, [paper](https://doi.org/10.11588/heibooks.1652.c23938)
+* 14.03.2025 [LLM4DDC: Adopting Large Language Models for Research Data Classification Using Dewey Decimal Classification ](https://doi.org/10.11588/heibooks.1652.c23948)
+* 13.03.2025, [Institutional Data Science Services at FDZ UB Mannheim: Enhancing Research Data Management](https://doi.org/10.5281/zenodo.15039700), E-Science-Tage 2025, [paper](https://doi.org/10.11588/heibooks.1652.c23916)
+
+
 ### 🌱 Natural Language Processing
 
 * [bbw](https://github.com/UB-Mannheim/bbw) is a tool for entity linking, entity typing and relation extraction using any Wikibase knowledge graph (e.g., Wikidata) and meta-lookup (metasearch over SearX) [[docs](https://ub-mannheim.github.io/bbw/)], [[paper](http://ceur-ws.org/Vol-2775/paper2.pdf)]
