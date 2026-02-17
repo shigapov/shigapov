@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### News
 
+* 17.02.2026 [Good and Questionable Research Practices with AI: A Spectrum of Research Integrity](https://doi.org/10.5281/zenodo.18669882)
+* 10.02.2026 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311), short awareness version
 * 16.12.2025 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.17940943), [Jupyter Book](https://shigapov.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)
 * 22.10.2025 [Responsible use of AI in Research](https://doi.org/10.5281/zenodo.17413127)
 * 14.10.2025 [Questionable Practices in the use of AI](https://doi.org/10.5281/zenodo.17349510)
