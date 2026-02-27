@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### News
 
+* 26.02.2026 [Literacy, data, and AI: A keynote on literacy, data literacy, and AI literacy](https://doi.org/10.5281/zenodo.18789468)
 * 17.02.2026 [Good and Questionable Research Practices with AI: A Spectrum of Research Integrity](https://doi.org/10.5281/zenodo.18669882)
 * 10.02.2026 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311), short awareness version
 * 16.12.2025 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.17940943), [Jupyter Book](https://shigapov.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)
