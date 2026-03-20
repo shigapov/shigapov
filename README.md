@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 * 14.03.2025 [LLM4DDC: Adopting Large Language Models for Research Data Classification Using Dewey Decimal Classification ](https://doi.org/10.11588/heibooks.1652.c23948)
 * 13.03.2025, [Institutional Data Science Services at FDZ UB Mannheim: Enhancing Research Data Management](https://doi.org/10.5281/zenodo.15039700), E-Science-Tage 2025, [paper](https://doi.org/10.11588/heibooks.1652.c23916)
 
+### 🌱 AI
+
+* [UBi](https://chat.bib.uni-mannheim.de) is an agentic AI-chatbot at Mannheim University Library [[code](https://github.com/UB-Mannheim/UBi)]
 
 ### 🌱 Natural Language Processing
 
