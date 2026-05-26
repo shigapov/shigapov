@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### News
 
+* 20.05.2026 [Agentic AI-Chatbot at the Mannheim University Library: From “Made Simple” to “Made Right”](https://github.com/UB-Mannheim/UBi/blob/main/docs/2026.05.20_Agentic_AI-Chatbot_at_the_Mannheim_University_library_From_Made_Simple_to_Made_right.pdf)
 * 04.05.2026 [AI and research misconduct](https://doi.org/10.5281/zenodo.20021136)
 * 12.03.2026 [Responsible use of AI in publications, grant proposals, and peer review](https://doi.org/10.5281/zenodo.18975482)
 * 26.02.2026 [Literacy, data, and AI: A keynote on literacy, data literacy, and AI literacy](https://doi.org/10.5281/zenodo.18789468)
