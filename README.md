@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### AI workshops and workbooks
 
 * [Responsible use of AI in publications, grant proposals, and peer review](https://doi.org/10.5281/zenodo.18975482)
-* [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311) [[Jupyter Book](https://shigapov.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)]
+* [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311) [[Jupyter Book](https://renat-kaufmann.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)]
 
 ### News
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * 26.02.2026 [Literacy, data, and AI: A keynote on literacy, data literacy, and AI literacy](https://doi.org/10.5281/zenodo.18789468)
 * 17.02.2026 [Good and Questionable Research Practices with AI: A Spectrum of Research Integrity](https://doi.org/10.5281/zenodo.18669882)
 * 10.02.2026 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311), short awareness version
-* 16.12.2025 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.17940943), [Jupyter Book](https://shigapov.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)
+* 16.12.2025 [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.17940943), [Jupyter Book](https://renat-kaufmann.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)
 * 22.10.2025 [Responsible use of AI in Research](https://doi.org/10.5281/zenodo.17413127)
 * 14.10.2025 [Questionable Practices in the use of AI](https://doi.org/10.5281/zenodo.17349510)
 * 07.10.2025 [AI for Research Data Management and Open Science](https://doi.org/10.5281/zenodo.17286747)
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### 🌱 Knowledge graphs
 
-* [Wikibase knowledge graphs](https://github.com/shigapov/wikibase-knowledge-graphs) is a list of open source tools and resources related to Wikibase knowledge graphs
+* [Wikibase knowledge graphs](https://github.com/renat-kaufmann/wikibase-knowledge-graphs) is a list of open source tools and resources related to Wikibase knowledge graphs
 * [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) is a tool for fast knowledge graph creation with Wikibase [[docs](https://ub-mannheim.github.io/RaiseWikibase)]
 * [Aktienführer Knowledge Graph](https://github.com/UB-Mannheim/Aktienfuehrer-KG) is a (meta)data KG for the German listed stock companies from the Hoppenstedt-Aktienführer from 1956 to 2018 [[frontend](https://akf.kgi.uni-mannheim.de)], [[SPARQL](https://query.akf.kgi.uni-mannheim.de)], [[reconciliation service](https://rec.akf.kgi.uni-mannheim.de)]
 * [MaschinenBauIndustrie (MBI) Knowledge Graph](https://github.com/UB-Mannheim/Maschinen-Industrie) is a KG of structured data from the book "Die Maschinen-Industrie im Deutschen Reich" written by Herbert Patschan in 1937 [[frontend](https://mbi.kgi.uni-mannheim.de)], [[SPARQL](https://query.mbi.kgi.uni-mannheim.de)] and [[reconciliation service](https://rec.mbi.kgi.uni-mannheim.de)]
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
    * [I for Interoperable](https://doi.org/10.5281/zenodo.7993735)
    * [R for Reusable](https://doi.org/10.5281/zenodo.7997250)
 * [madata](https://github.com/UB-Mannheim/madata) is a tool for syncing the metadata of datasets between MADATA OAI-PMH (Mannheim Data Repository) and Wikidata
-* [ReproResearch](https://github.com/shigapov/ReproResearch) is a ready-to-use repository for FAIR reproducible research (data) projects 
+* [ReproResearch](https://github.com/renat-kaufmann/ReproResearch) is a ready-to-use repository for FAIR reproducible research (data) projects 
 
 ### 🌱 [NFDI](https://www.nfdi.de)
 
