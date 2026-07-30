@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### AI workshops and workbooks
+
+* [Responsible use of AI in publications, grant proposals, and peer review](https://doi.org/10.5281/zenodo.18975482)
+* [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311) [[Jupyter Book](https://shigapov.github.io/safe_ai/), [workbook](https://github.com/shigapov/safe_ai/tree/main/book)]
+
 ### News
 
 * 20.05.2026 [Agentic AI-Chatbot at the Mannheim University Library: From “Made Simple” to “Made Right”](https://github.com/UB-Mannheim/UBi/blob/main/docs/2026.05.20_Agentic_AI-Chatbot_at_the_Mannheim_University_library_From_Made_Simple_to_Made_right.pdf)
@@ -33,6 +38,10 @@ Here are some ideas to get you started:
 ### 🌱 AI
 
 * [UBi](https://chat.bib.uni-mannheim.de) is an agentic AI-chatbot at Mannheim University Library [[code](https://github.com/UB-Mannheim/UBi)]
+* [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair) is a virtual consultant on FAIR RDM in ChatGPT Plus [[GitHub](https://github.com/UB-Mannheim/FAIR-GPT)]
+* [FAIR-farfalle](https://github.com/UB-Mannheim/FAIR-farfalle) is an open-source Perplexity analogue for Research Data Management based on [farfalle](https://github.com/rashadphz/farfalle)
+* [FAIR-Perplexica](https://github.com/UB-Mannheim/FAIR-Perplexica) is an open-source Perplexity analogue for Research Data Management based on [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+* [FAIR-sensei](https://github.com/UB-Mannheim/FAIR-sensei) is an open-source Perplexity analogue for Research Data Management based on [sensei](https://github.com/jjleng/sensei)
 
 ### 🌱 Natural Language Processing
 
@@ -53,10 +62,6 @@ Here are some ideas to get you started:
 
 ### 🌱 Research Data Management
 
-* [FAIR GPT](https://chat.openai.com/g/g-BkMR28wlV-fair) is a virtual consultant on FAIR RDM in ChatGPT Plus [[GitHub](https://github.com/UB-Mannheim/FAIR-GPT)]
-* [FAIR-farfalle](https://github.com/UB-Mannheim/FAIR-farfalle) is an open-source Perplexity analogue for Research Data Management based on [farfalle](https://github.com/rashadphz/farfalle)
-* [FAIR-Perplexica](https://github.com/UB-Mannheim/FAIR-Perplexica) is an open-source Perplexity analogue for Research Data Management based on [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-* [FAIR-sensei](https://github.com/UB-Mannheim/FAIR-sensei) is an open-source Perplexity analogue for Research Data Management based on [sensei](https://github.com/jjleng/sensei)
 * [Awesome RDM](https://github.com/UB-Mannheim/awesome-RDM) is a list of awesome RDM resources for researchers and organizations
 * [FAIR Data Week at Uni Mannheim](https://github.com/UB-Mannheim/FAIR-Data-Week)
    * [F for Findable](https://doi.org/10.5281/zenodo.7984881)
