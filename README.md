@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### AI workshops and workbooks
 
 * [Responsible use of AI in publications, grant proposals, and peer review](https://doi.org/10.5281/zenodo.18975482)
-* [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311) [[Jupyter Book](https://renat-kaufmann.github.io/safe_ai/), [workbook](https://github.com/renat-kaufmann/safe_ai/tree/main/book)]
+* [Safe and secure use of AI in research projects](https://doi.org/10.5281/zenodo.18596311) [[Jupyter Book](https://renat-kaufmann.github.io/safe_ai/), [workbook](https://github.com/renat-kaufmann/safe_ai/tree/main/book), [GitHub repo](https://github.com/renat-kaufmann/safe_ai)]
 
 ### News
 
